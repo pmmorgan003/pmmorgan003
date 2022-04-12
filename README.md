@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pmmorgan003
-- 👀 I’m interested in all things testing
+- 👀 I’m interested in all things testing 
 - 🌱 I’m currently learning why UX testing is so challenging
-- 💞️ I’m looking to collaborate on speaking engagements. Have something interesting to share with the community, especially around test automation, visual testing, or ai in testing? I help plan and promote @applitools very active webinar series—let's connect.
+- 💞️ I’m looking to collaborate on speaking. Have something interesting to share with the community, especially around test automation, visual testing, or ai in testing? I help plan and promote @applitools very active webinar series—let's connect.
 - 📫 How to reach me at work -- pam.morgan at applitools dot com
 
 <!---
